@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=5V Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=BGND Pin=C49-1
+Change Component Footprint: Designator=C47 Old Footprint=0603_C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C49 Old Footprint=0603_C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C51 Old Footprint=0603_C New Footprint=RAD-0.3
+Change Component Footprint: Designator=L1 Old Footprint=0603_L New Footprint=0603
+Change Component Footprint: Designator=L2 Old Footprint=0603_L New Footprint=0603
+Change Component Footprint: Designator=U17 Old Footprint=DIP8_8601 New Footprint=SMD-8_6.3mm
+Change Component Footprint: Designator=U18 Old Footprint=DIP8_8601 New Footprint=SMD-8_6.3mm
+Change Component Footprint: Designator=U19 Old Footprint=DIP8_8601 New Footprint=SMD-8_6.3mm
+Change Component Comment : Designator=H3 Old Comment= New Comment=KH-2.54PH180-1X2P-L11.5
+Change Component Comment : Designator=R92 Old Comment=10k New Comment=500R
+Change Component Comment : Designator=C49 Old Comment=10uF New Comment=104
+Change Component Comment : Designator=C46 Old Comment=10V 220uF New Comment=6.3V 470uF
+Change Component Comment : Designator=C48 Old Comment=10V 220uF New Comment=6.3V 470uF
+Change Component Comment : Designator=C47 Old Comment=100nF New Comment=104
+Change Component Comment : Designator=C51 Old Comment=100nF New Comment=104
+Change Component Library : Designator=C46 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=C47 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=C48 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=C49 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=C50 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=C51 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=L1 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=L2 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change Component Library : Designator=U7 Old Library=* New Library=Extra_Board_Mini.SCHLIB
+Change component parameters: Designator = "C47" ("C47"); Footprint = "0603_C"; UniqueID = "\ETFCFGOX" ("\ETFCFGOX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49" ("C49"); Footprint = "0603_C"; UniqueID = "\MMSDZFLE" ("\MMSDZFLE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C51" ("C51"); Footprint = "0603_C"; UniqueID = "\SFQAGGKP" ("\SFQAGGKP")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=P1(KF128-3.81-6P)
+Added Component: Designator=P2(KF128-3.81-6P)
+Added Component: Designator=P3(KF128-3.81-6P)
+Added Component: Designator=P4(KF128-3.81-6P)
+Added Component: Designator=U8(SOT23)
+Added Component: Designator=U10(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U11(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U12(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U13(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U14(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U15(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Component: Designator=U16(TLP181)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ISOCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IS181GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IS181GB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=5V Pin=C47-2
+Added Pin To Net: NetName=BGND Pin=C49-2
+Added Pin To Net: NetName=NetC6_1 Pin=P1-1
+Added Pin To Net: NetName=NetC8_2 Pin=P1-2
+Added Pin To Net: NetName=BVCC Pin=P1-3
+Added Pin To Net: NetName=BGND Pin=P1-4
+Added Pin To Net: NetName=NetC20_1 Pin=P1-5
+Added Pin To Net: NetName=NetC22_2 Pin=P1-6
+Added Pin To Net: NetName=NetC7_1 Pin=P2-1
+Added Pin To Net: NetName=NetC9_2 Pin=P2-2
+Added Pin To Net: NetName=BVCC Pin=P2-3
+Added Pin To Net: NetName=BGND Pin=P2-4
+Added Pin To Net: NetName=NetC21_1 Pin=P2-5
+Added Pin To Net: NetName=NetC23_2 Pin=P2-6
+Added Pin To Net: NetName=NetC26_1 Pin=P3-1
+Added Pin To Net: NetName=NetC28_2 Pin=P3-2
+Added Pin To Net: NetName=BVCC Pin=P3-3
+Added Pin To Net: NetName=BGND Pin=P3-4
+Added Pin To Net: NetName=NetC40_1 Pin=P3-5
+Added Pin To Net: NetName=NetC42_2 Pin=P3-6
+Added Pin To Net: NetName=NetC27_1 Pin=P4-1
+Added Pin To Net: NetName=NetC29_2 Pin=P4-2
+Added Pin To Net: NetName=BVCC Pin=P4-3
+Added Pin To Net: NetName=BGND Pin=P4-4
+Added Pin To Net: NetName=NetC41_1 Pin=P4-5
+Added Pin To Net: NetName=NetC43_2 Pin=P4-6
+Added Pin To Net: NetName=NetR29_2 Pin=U10-1
+Added Pin To Net: NetName=M Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GPB1 Pin=U10-4
+Added Pin To Net: NetName=NetR34_2 Pin=U11-1
+Added Pin To Net: NetName=M Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GPB2 Pin=U11-4
+Added Pin To Net: NetName=NetR37_2 Pin=U12-1
+Added Pin To Net: NetName=M Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=GPB3 Pin=U12-4
+Added Pin To Net: NetName=NetR42_2 Pin=U13-1
+Added Pin To Net: NetName=M Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GPB4 Pin=U13-4
+Added Pin To Net: NetName=NetR45_2 Pin=U14-1
+Added Pin To Net: NetName=M Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=GPB5 Pin=U14-4
+Added Pin To Net: NetName=NetR50_2 Pin=U15-1
+Added Pin To Net: NetName=M Pin=U15-2
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=GPB6 Pin=U15-4
+Added Pin To Net: NetName=NetR54_2 Pin=U16-1
+Added Pin To Net: NetName=M Pin=U16-2
+Added Pin To Net: NetName=GND Pin=U16-3
+Added Pin To Net: NetName=GPB7 Pin=U16-4
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=L1-2
+Added Net: Name=NetC49_1
+Added Member To Class: ClassName=AD7799 Member=Component P1 CON6
+Added Member To Class: ClassName=AD7799 Member=Component P2 CON6
+Added Member To Class: ClassName=AD7799 Member=Component P3 CON6
+Added Member To Class: ClassName=AD7799 Member=Component P4 CON6
+Added Member To Class: ClassName=Power Member=Component U8 HT7533-1
+Added Member To Class: ClassName=DIn Member=Component U10 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U11 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U12 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U13 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U14 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U15 IS181GB
+Added Member To Class: ClassName=DIn Member=Component U16 IS181GB
